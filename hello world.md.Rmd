@@ -1,0 +1,13 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+#HelloWorld.md
+##By Sai Seethal
+
+**part 1**
+### This is a markdown file
+
+_The End_
